@@ -1,4 +1,4 @@
-from flask import Flask
+import Flask
 import request
 import render_template
 import pickle
