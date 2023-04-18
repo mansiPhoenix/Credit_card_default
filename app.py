@@ -1,6 +1,4 @@
-from flask import Flask
-import request
-import render_template
+from flask import Flask, request, render_template
 import pickle
 import numpy as np
 
